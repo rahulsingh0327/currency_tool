@@ -1,4 +1,3 @@
-from server import mcp
 import requests
 from typing import Any, Dict
 
